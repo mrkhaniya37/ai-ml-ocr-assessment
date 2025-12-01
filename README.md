@@ -2,7 +2,7 @@
 
 This project is an OCR-based text extraction system for shipping labels / waybills.
 
-## 🎯 Objective
+## Objective
 
 - Perform OCR on shipping label images.
 - Extract the **complete text line containing the pattern `_1_`**.
@@ -11,7 +11,7 @@ This project is an OCR-based text extraction system for shipping labels / waybil
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Language**: Python
 - **OCR Engine**: [EasyOCR](https://github.com/JaidedAI/EasyOCR) (open-source)
@@ -24,7 +24,7 @@ This project is an OCR-based text extraction system for shipping labels / waybil
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ai-ml-ocr-assessment/
@@ -47,3 +47,4 @@ ai-ml-ocr-assessment/
 └── notebooks/
     └── exploration.ipynb (optional)
 ```
+
